@@ -1,4 +1,4 @@
-# SCENTRA 🕯️
+# SCENTRA 
 
 Sistema de escritorio para la gestión de inventarios de empresas que fabrican velas y productos aromáticos, desarrollado en **Java Swing** con **MySQL** y aplicando **Programación Orientada a Objetos**. Permite controlar materia prima, material de empaque y productos terminados, registrar entradas y salidas, y exportar el historial a Excel. Varias empresas pueden usar el sistema al mismo tiempo, cada una con sus propios datos y empleados. Proyecto presentado en **EXPOTEC 2025**.
 
